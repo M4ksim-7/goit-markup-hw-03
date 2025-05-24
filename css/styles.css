@@ -223,7 +223,6 @@ img {
 }
 
 .section-team-list {
-  background-color: #ffffff;
   display: flex;
   gap: 24px;
 }
